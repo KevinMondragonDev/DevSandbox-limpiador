@@ -2,7 +2,18 @@
 
 > Paquete de Python instalable con reglas de limpieza de datos, probado con pytest y desarrollado con pull requests.
 
-**Estado:** 🚧 sin empezar · **Tipo:** Paquete instalable de Python · **Módulo del programa:** 05/03 · Ingeniería de software
+**Estado:** 🚧 sin empezar · **Categoría:** DevSandbox · **Tipo:** Paquete instalable de Python · **Módulo del programa:** 05/03 · Ingeniería de software
+
+## Qué significa el nombre
+
+El prefijo del repositorio indica el tamaño del proyecto:
+
+| Prefijo | Tamaño | Qué es |
+|---|---|---|
+| **`DevSandbox-`** ← este | Hasta 8 h | Un proyecto pequeño para practicar un tema concreto: un espacio para probar, equivocarse y terminar rápido |
+| `NightBuilds-` | 8 h o más | Un proyecto grande, con varias piezas (base de datos, orquestación, nube o API) y decisiones de diseño propias |
+
+Este es un **DevSandbox**: el reto está estimado en 5–6 h.
 
 ## La problemática
 
