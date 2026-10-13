@@ -1,8 +1,8 @@
-# 🚀 Sideproject — De scripts a paquete
+# 🚀 DevSandbox — De scripts a paquete
 
-**Repositorio:** `sideproject-limpiador` · **Tipo:** paquete instalable de Python · **Tiempo:** 5–6 h · **Después de:** lecciones 1 a 4 de esta sección
+**Repositorio:** `DevSandbox-limpiador` · **Tipo:** paquete instalable de Python · **Tiempo:** 5–6 h · **Después de:** lecciones 1 a 4 de esta sección
 
-> Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
+> Reglas, README y lista de cierre: [`NIGHTBUILDS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
 ## El caso
 
@@ -21,7 +21,7 @@ Tus reglas de limpieza funcionan en tu máquina. Mañana entra otra persona al e
 **Hito 1 — El esqueleto.** Repositorio con `pyproject.toml`, `src/limpiador/` y `tests/`. Una sola regla dentro.
 *Comprueba:* desde otra carpeta, `pip install -e .` y `python -c "import limpiador"` funcionan.
 
-**Hito 2 — Las reglas, cada una en su PR.** Trae tus reglas del sideproject de calidad de datos. Nada directo a `main`: mínimo 4 pull requests.
+**Hito 2 — Las reglas, cada una en su PR.** Trae tus reglas del DevSandbox de calidad de datos. Nada directo a `main`: mínimo 4 pull requests.
 *Comprueba:* `git log --oneline --graph` muestra las ramas fusionadas.
 
 **Hito 3 — Tests.** Al menos 12: uno por regla, `parametrize` en dos y un fixture con datos pequeños y sucios.
