@@ -2,7 +2,7 @@
 
 > Paquete de Python instalable con reglas de limpieza de datos, probado con pytest y desarrollado con pull requests.
 
-**Estado:** 🚧 sin empezar · **Tipo:** Paquete instalable de Python · **Módulo del programa:** 06/03 · Ingeniería de software
+**Estado:** 🚧 sin empezar · **Tipo:** Paquete instalable de Python · **Módulo del programa:** 05/03 · Ingeniería de software
 
 ## La problemática
 

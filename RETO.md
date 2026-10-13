@@ -1,6 +1,6 @@
 # 🚀 Sideproject — De scripts a paquete
 
-**Repositorio:** `sideproject-limpiador` · **Tipo:** paquete instalable de Python · **Tiempo:** 5–6 h · **Después de:** lecciones 1 a 4 de esta carpeta
+**Repositorio:** `sideproject-limpiador` · **Tipo:** paquete instalable de Python · **Tiempo:** 5–6 h · **Después de:** lecciones 1 a 4 de esta sección
 
 > Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
